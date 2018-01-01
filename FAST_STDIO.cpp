@@ -1,4 +1,4 @@
-//Fastest method for STDIO the 'int' datatype.
+//Fastest method for STDIO the 'integer' datatype.
 
 #include<bits/stdc++.h>
 using namespace std;
